@@ -5,7 +5,7 @@
 
 ## 🏗 **Overview**
 
-Welcome to my data analytics portfolio! This repository consolidates three diverse projects that showcase my capabilities in **SQL Database Design**, **Data Analysis** using Python, and **Interactive Dashboards** in Power BI. Through these projects, I’ve demonstrated expertise in **data management**, **predictive modeling**, and **insightful visualizations** to support data-driven decisions.
+Welcome to my data analytics portfolio! This repository consolidates three diverse solo projects that showcase my capabilities in **SQL Database Design**, **Data Analysis** using Python, and **Interactive Dashboards** in Power BI. Through these projects, I’ve demonstrated expertise in **data management**, **predictive modeling**, and **insightful visualizations** to support data-driven decisions.
 
 ---
 
