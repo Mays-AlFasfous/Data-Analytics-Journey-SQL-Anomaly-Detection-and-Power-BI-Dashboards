@@ -1,15 +1,15 @@
-# **Data Journey: SQL, Anomaly Detection, and Power BI**
+# 🎯 **Data Journey: SQL, Anomaly Detection, and Power BI**
 ### *A Comprehensive Data Analytics Project Portfolio*
 
 ---
 
-## 🏗 **Overview**
+## 🚀 **Overview**
 
 Welcome to my data analytics portfolio! This repository consolidates three diverse solo projects that showcase my capabilities in **SQL Database Design**, **Data Analysis** using Python, and **Interactive Dashboards** in Power BI. Through these projects, I’ve demonstrated expertise in **data management**, **predictive modeling**, and **insightful visualizations** to support data-driven decisions.
 
 ---
 
-## 📂 **Projects Breakdown**
+## 📂 **Projects Overview**
 
 ### 1️⃣ **Online Ticket Booking Database System**
 - **Objective**: Design and implement a SQL Server database to manage movie show bookings efficiently.
@@ -35,24 +35,39 @@ Welcome to my data analytics portfolio! This repository consolidates three diver
 - **Key Highlights**:
   - **Dashboard Development**: Created three dashboards focused on Women's Participation, Jordan’s Olympic Performance, and Seasonal Insights.
   - **Interactive Visualizations**: Enabled decision-makers to explore data through dynamic charts, slicers, and KPIs.
+  - **Business Intelligence**: Transformed raw data into valuable insights for stakeholders.
   - **Dataset**: [Olympic Data.xlsx]
 
 ---
 
-## 📊 **Supporting Documents**
+## 📑 **Supporting Documents**
 This repository includes:
 - 📄 **Technical Report**: A comprehensive document covering project details, methodologies, and outcomes.
 - 🖥 **Presentation**: Visual summary of the projects, highlighting key insights and results.
+- **Datasets**:  
+  - [IoT Network Intrusion Dataset.rar]
+  - [dataset_description_for_IoTID20.xlsx]
+  - [Olympic Data.xlsx]
 
 ---
 
-## 💡 **About the Projects**
-These projects represent my comprehensive skill set as a **data analyst**, ranging from database design to predictive analytics and visualization:
-- **Database Design**: Expert in SQL Server database management, ensuring high data quality.
-- **Python Analytics**: Proven ability to derive actionable insights from data and build accurate predictive models.
-- **Power BI Dashboards**: Skilled in transforming raw data into interactive visual insights for business decision-making.
+## ⚙️ **Tech Stack**
+- **SQL Server**: Database design, normalization, and query optimization.
+- **Python**: Data cleaning, analysis, feature engineering, and building predictive models.
+- **Power BI**: Data visualization, dashboard creation, and business intelligence.
 
-This portfolio underscores my ability to deliver end-to-end data solutions that are both insightful and impactful.
+---
+
+## 💡 **Project Highlights**
+These projects highlight my ability to manage **data lifecycle tasks** from **database design** to **predictive analytics** and **visualization**:
+- **Database Design**: Expert in designing scalable and normalized databases with SQL Server.
+- **Python Analytics**: Adept at extracting actionable insights, building machine learning models, and anomaly detection.
+- **Power BI Dashboards**: Proficient in crafting interactive dashboards that convert raw data into decision-making tools.
+
+---
+
+## ✨ **Why This Portfolio?**
+This portfolio represents the depth and versatility of my skill set in data analytics. Whether it's designing a database to handle complex data, uncovering insights through predictive models, or presenting data in a visually compelling way, these projects demonstrate my ability to solve real-world problems and support business decisions.
 
 ---
 
