@@ -34,6 +34,7 @@ Welcome to my data analytics portfolio! This repository consolidates three diver
 - **Key Highlights**:
   - **Dashboard Development**: Created three dashboards focused on Women's Participation, Jordan’s Olympic Performance, and Seasonal Insights.
   - **Interactive Visualizations**: Enabled decision-makers to explore data through dynamic charts, slicers, and KPIs.
+  - **Dataset**: [Olympic Dataset] (https://github.com/Mays-AlFasfous/Data-Analytics-Journey-SQL-Anomaly-Detection-and-Power-BI-Dashboards/blob/main/Olympic Data.xlsx) - A detailed dataset providing insights into Olympic events and participants.
 
 ---
 
