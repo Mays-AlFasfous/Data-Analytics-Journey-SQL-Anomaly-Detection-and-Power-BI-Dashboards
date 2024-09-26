@@ -26,6 +26,7 @@ Welcome to my data analytics portfolio! This repository consolidates three diver
   - **Descriptive Analytics**: Extracted valuable insights from data using Python to uncover patterns.
   - **Predictive Models**: Built classification models to detect anomalies with high accuracy.
   - **Feature Selection**: Improved performance of models through advanced feature selection techniques.
+  - **Dataset**: [IoT Network Intrusion Dataset.rar] and [dataset_description_IoTID20.xlsx]
 
 ---
 
@@ -34,7 +35,7 @@ Welcome to my data analytics portfolio! This repository consolidates three diver
 - **Key Highlights**:
   - **Dashboard Development**: Created three dashboards focused on Women's Participation, Jordan’s Olympic Performance, and Seasonal Insights.
   - **Interactive Visualizations**: Enabled decision-makers to explore data through dynamic charts, slicers, and KPIs.
-  - **Dataset**: [Olympic Dataset] (https://github.com/Mays-AlFasfous/Data-Analytics-Journey-SQL-Anomaly-Detection-and-Power-BI-Dashboards/blob/main/OlympicData.xlsx) - A detailed dataset providing insights into Olympic events and participants.
+  - **Dataset**: [Olympic Data.xlsx]
 
 ---
 
