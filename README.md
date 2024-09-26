@@ -66,8 +66,7 @@ These projects highlight my ability to manage **data lifecycle tasks** from **da
 
 ---
 
-## ✨ **Why This Portfolio?**
-This portfolio represents the depth and versatility of my skill set in data analytics. Whether it's designing a database to handle complex data, uncovering insights through predictive models, or presenting data in a visually compelling way, these projects demonstrate my ability to solve real-world problems and support business decisions.
+## ✨ This portfolio represents the depth and versatility of my skill set in data analytics. Whether it's designing a database to handle complex data, uncovering insights through predictive models, or presenting data in a visually compelling way, these projects demonstrate my ability to solve real-world problems and support business decisions.
 
 ---
 
